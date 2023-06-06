@@ -63,11 +63,8 @@ OUTPUT:
 
 
 CLIENT:
-![image](https://github.com/MaheshMuthuL/Stop-and-wait-protocol/assets/135570619/97876e03-ea09-4351-8634-2c0f9ad1b3a2)
-
 
 SERVER:
-![image](https://github.com/MaheshMuthuL/Stop-and-wait-protocol/assets/135570619/356cadfb-d27f-4945-abe3-8bfa02ee6c9e)
 
 RESULT:
 
