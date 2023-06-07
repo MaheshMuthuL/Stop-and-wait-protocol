@@ -67,8 +67,6 @@ CLIENT:
 
 
 
-
-
 SERVER:
 
 ![1aserver](https://github.com/MaheshMuthuL/Stop-and-wait-protocol/assets/135570619/03643653-8e9a-4b08-97de-d15bede175ed)
